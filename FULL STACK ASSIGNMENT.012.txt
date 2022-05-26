@@ -1,0 +1,31 @@
+1.
+The string itself is immutable but the label can change.
+ Assigning a new value to an existing variable is perfectly valid.
+2.
+The in-place operator += can also be used. The string on the right is concatenated after the string variable on the left.
+ To add a string to the end of a string variable,We use the += operator.
+3.
+There are two types of indexing : 1. Basic Slicing and indexing : Consider the syntax x[obj] where x is the array and obj is the index.
+ Slice object is the index in case of basic slicing.
+4.
+ Indexing is used to obtain individual elements.
+ Slicing: Slicing is used to obtain a sequence of elements.
+5.
+Strings are ordered sequences of character data. 
+Indexing allows us to access individual characters in a string directly by using a numeric.
+6.
+In Python, Strings are arrays of bytes representing Unicode characters. However, Python does not have a character data type, 
+a single character is simply a string with a length of 1. Square brackets can be used to access elements of the string.
+7.
+Using the + operator is the most common way to concatenate two strings in Java. we can provide either a variable, 
+a number, or a String literal (which is always surrounded by double quotes).
+8.
+Use str. index() to find the first occurrence of a substring in a string.
+ Call str. index(substr) with substr as the target substring in the string str .
+9.
+The logical operators and, or and not are also referred to as boolean operators. 
+While and as well as or operator needs two operands, which may evaluate to true or false, not operator needs one operand evaluating to true or false.
+ Boolean and operator returns true if both operands return true.
+
+
+
